@@ -1,0 +1,29 @@
+body {
+    background-color:aqua: 
+    position: static;
+}
+h1 {
+    font-size: 60px;
+    font-family: 'Trebuchet MS', sans-serif;
+    text-shadow: 5px 5px 10px rgb(4, 8, 124);
+}
+h2 {
+    font-family: 'Trebuchet MS', sans-serif;
+    text-shadow: 5px 5px 10px rgb(12, 3, 114);
+}
+.content {
+    background: rgba(142, 141, 140, 0.8);
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    float: center;
+    margin: 0 auto;
+    width: 50%;
+    border: 2px solid black;
+}
+#turntable{
+    float: right;
+    border-radius: 50%;
+    border: 2px solid purple;
+    margin-right: 2px;
+}
